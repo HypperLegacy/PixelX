@@ -1,0 +1,33 @@
+table {height: 100vh;
+    width: 100%;
+}
+
+head, body{margin:0;}
+
+.vazio {width: auto; height: 40px; background-color: #2B2B2B;}
+  
+.cabecalho {width: auto; height: 52px;}
+
+.carrinho{width: 60px;}
+
+.jost{
+    font-family: "Jost", sans-serif;
+    font-size: 34px;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    vertical-align: text-top;
+    font-style: normal;
+    color: #FFFFFF;
+    background-color: #2B2B2B;
+}
+
+.italiana-regular {
+    font-family: "Italiana", sans-serif;
+    font-size: 64px;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFFFFF;
+    background-color: #2B2B2B;
+}
+
